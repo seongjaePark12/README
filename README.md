@@ -48,8 +48,8 @@ I'm SeongjaePark, Back-End developer <br/>
 
 <div align=left>
 
-<img width="380"  src="https://github-readme-stats.vercel.app/api?username=AwesomeYelim&show_icons=true&count_private=true&theme=dracula" />
+<img width="380"  src="https://github-readme-stats.vercel.app/api?username=seongjaePark12&show_icons=true&count_private=true&theme=dracula" />
 
-<img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=AwesomeYelim&theme=dracula&date_format=%5BY%20%5DM%20j">
+<img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=seongjaePark12&theme=dracula&date_format=%5BY%20%5DM%20j">
 
 </div>
