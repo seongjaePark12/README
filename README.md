@@ -11,7 +11,19 @@ Hi, there <br/>
 I'm SeongjaePark, Back-End developer <br/>
 <br/> 
  
+<h2>👩🏻‍💻 &nbsp;Things I develop with </h2>
 
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=222323"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Springs-6DB33F?style=flat-square&logo=Spring&logoColor=fff"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=333"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=333"/>
+
+</p>
+<br/> 
 ## Connect with me  
 <div align="left">
 <a href="https://github.com/seongjaePark12" target="_blank">
