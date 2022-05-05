@@ -9,6 +9,7 @@
 
 Hi, there <br/>
 I'm SeongjaePark, Back-End developer <br/>
+Email - qkrtjdwo337@naver.com<br/>
 <br/> 
  
 <h2>👩🏻‍💻 &nbsp;Things I develop with </h2>
@@ -27,6 +28,9 @@ I'm SeongjaePark, Back-End developer <br/>
 ## Connect with me  
 <div align="left">
 <a href="https://github.com/seongjaePark12" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+ <a href="https://www.instagram.com/sj__619" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <!--<a href="https://www.linkedin.com/in/awesomeyelim/" target="_blank">
