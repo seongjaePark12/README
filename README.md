@@ -8,7 +8,7 @@
 </p>
 
 Hi, there <br/>
-I'm SeongjaePark, Back-End developer <br/>
+I'm SeongjaePark, Web developer <br/>
 Email - qkrtjdwo337@naver.com<br/>
 <br/> 
  
