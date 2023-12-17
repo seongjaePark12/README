@@ -24,7 +24,7 @@ Email - qkrtjdwo337@naver.com<br/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=333"/>
 <img src="https://img.shields.io/badge/ORACLE-007396?style=flat-square&logo=ORACLE&logoColor=white"/>
 <img src="https://img.shields.io/badge/VUE-007396?style=flat-square&logo=VUE&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 </p>
 <br/> 
 
